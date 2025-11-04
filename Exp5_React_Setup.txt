@@ -1,0 +1,12 @@
+# Commands to set up React
+npx create-react-app myapp
+cd myapp
+npm start
+
+# App.js (default React structure)
+function App() {
+  return <h1>Hello React!</h1>;
+}
+export default App;
+
+# Libraries required: Node.js, npm (installed automatically with Node)

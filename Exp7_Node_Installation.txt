@@ -1,0 +1,10 @@
+# Step 1: Install Node.js from https://nodejs.org
+# Step 2: Verify installation
+node -v
+npm -v
+
+# Step 3: Create a simple app
+echo "console.log('Node.js setup successful!')" > app.js
+node app.js
+
+# No extra libraries required
